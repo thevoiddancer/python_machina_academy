@@ -1,0 +1,4 @@
+uvesti dobro [optional]
+razjasniti funkcije i metode
+odvojiti i pobrojati primjere i zadatke
+jasno naznačiti točku korištenja vscodea i githuba
