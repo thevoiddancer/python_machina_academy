@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "python_machina_academy"}]
 
 [tool.poetry.dependencies]
-python = "3.11.9"
+python = "^3.12"
 ipykernel = "^6.29.5"
 
 
