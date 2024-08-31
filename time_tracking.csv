@@ -11,3 +11,4 @@
 28.8;120;4-petlja-if;Petlja if + liste
 28.8.;90;5-funkcije;Funkcije + docstrings
 30.8.;120;7-moduli;os + shutil + pathlib
+31.8.;30;8-try-except;Try...except
