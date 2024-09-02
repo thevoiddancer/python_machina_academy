@@ -2,3 +2,5 @@ uvesti dobro [optional]
 razjasniti funkcije i metode
 odvojiti i pobrojati primjere i zadatke
 jasno naznačiti točku korištenja vscodea i githuba
+pojačati uvođenje stringa - recimo navodnike ", ', """
+read-write ide prirodno iza os/shutil/pathlib modula
