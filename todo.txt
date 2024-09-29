@@ -6,3 +6,7 @@ pojačati uvođenje stringa - recimo navodnike ", ', """
 read-write ide prirodno iza os/shutil/pathlib modula
 
 DODATI API kao lekciju
+    - korištenje
+    - kreiranje
+testiranje
+
