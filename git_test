@@ -1,0 +1,15 @@
+1. Zahtjeva admin
+2. Disable Windows Explorer integration
+3. Use Visual Studio Code / Notepad++
+4. Name - Git decide
+5. PATH - From command line and also 3rd party
+6. SSH - bundled
+7. HTTPS - OpenSSL library
+8. File ending - Checkout as-is, commit as-is (samo za jedan tip OSa)
+9. Terminal - MinTTY
+10. Git pull - Fast forward or merge
+11. Credentials - Git credential manager
+...
+Open Git bash
+git config --global user.name myusername
+git config --global user.email myemail
