@@ -4,6 +4,8 @@ odvojiti i pobrojati primjere i zadatke
 jasno naznačiti točku korištenja vscodea i githuba
 pojačati uvođenje stringa - recimo navodnike ", ', """
 read-write ide prirodno iza os/shutil/pathlib modula
+napisati prethodne zadatke koji bi bili lakše rješivi s funkcijama
+napisati prethodne zadatke koji bi bili lakše rješivi s klasama
 
 DODATI API kao lekciju
     - korištenje
