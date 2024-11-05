@@ -12,3 +12,6 @@ DODATI API kao lekciju
     - kreiranje
 testiranje
 
+TODO:
+Summaries prije zadataka
+string methods
