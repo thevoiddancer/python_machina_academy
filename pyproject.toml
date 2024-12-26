@@ -7,13 +7,15 @@ readme = "README.md"
 packages = [{include = "python_machina_academy"}]
 
 [tool.poetry.dependencies]
-python = ">= 3.8, < 3.14"
+python = "^3.12"
 ipykernel = "^6.29.5"
 python-docx = "^1.1.2"
 pandas = "^2.2.3"
 pypdf = "^5.0.1"
 django = "^5.1.2"
 pysimplegui = "^5.0.7"
+openpyxl = "^3.1.5"
+fpdf = "^1.7.2"
 
 
 [build-system]
