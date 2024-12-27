@@ -18,3 +18,12 @@
 19.10;30;12-klase;Overload i imena
 20.10;30;13-vizualno;"tkinter"
 27.12;30;9-read-write;"binary dokumenti"
+
+
+‌program za kozmetički salon:
+    - login + po sekciji
+        - add/remove/edit customera
+        - add/remove/edit zaposlenika
+        - add/remove/edit zahvata
+        - add/remove/edit termina
+        
