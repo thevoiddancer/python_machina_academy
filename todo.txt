@@ -15,3 +15,10 @@ testiranje
 TODO:
 Summaries prije zadataka
 string methods
+
+
+TODO:
+    riješi zadatke označene žuto
+    testiraj visual studio
+        jupyter notebook
+    testiraj git na windowsima (visual studio)
