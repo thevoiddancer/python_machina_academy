@@ -22,3 +22,22 @@ TODO:
     testiraj visual studio
         jupyter notebook
     testiraj git na windowsima (visual studio)
+
+
+Instalacija:
+- python 3.13.1
+- venv je uključen:
+    python -m venv machina
+    machina\Scripts\activate
+    deactivate
+    pip install ipykernel....
+        create requirements
+- visual studio code
+    code .
+    ctrl+shift+P jupyter
+    select kernel
+    jupyter extension
+git:
+    ssh-keygen -t ed25519 -C "tomislav.nazifovic@gmail.com"
+    "C:\Users\ttomnaz\.ssh\id_ed25519_tomislav_nazifovic"
+    more C:\Users\ttomnaz\.ssh\id_ed25519_tomislav_nazifovic.pub
