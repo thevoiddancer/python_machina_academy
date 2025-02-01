@@ -41,3 +41,11 @@ git:
     ssh-keygen -t ed25519 -C "tomislav.nazifovic@gmail.com"
     "C:\Users\ttomnaz\.ssh\id_ed25519_tomislav_nazifovic"
     more C:\Users\ttomnaz\.ssh\id_ed25519_tomislav_nazifovic.pub
+
+
+‌program za kozmetički salon:
+    - login + po sekciji
+        - add/remove/edit customera
+        - add/remove/edit zaposlenika
+        - add/remove/edit zahvata
+        - add/remove/edit termina
